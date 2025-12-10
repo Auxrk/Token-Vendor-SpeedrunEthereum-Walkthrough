@@ -21,3 +21,5 @@ Perfect for builders who don’t code from scratch and prefer working with ready
    - selling tokens back for ETH using approve
 
 - Connect the frontend
+
+- Submit the challenge on SpeedrunEthereum

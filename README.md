@@ -15,3 +15,5 @@ Perfect for builders who don’t code from scratch and prefer working with ready
 - Deploy the Vendor contract
 
 - Implement:
+
+   - buying tokens with ETH

@@ -36,4 +36,4 @@ Perfect for builders who don’t code from scratch and prefer working with ready
 
 - MetaMask
 
-- 
+- Any EVM testnet (Sepolia / Optimism)

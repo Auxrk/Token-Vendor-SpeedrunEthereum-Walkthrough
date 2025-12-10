@@ -45,7 +45,7 @@ Perfect for builders who don’t code from scratch and prefer working with ready
 
 ```git clone https://github.com/YOUR_USERNAME/token-vendor-walkthrough.git```
 
-cd token-vendor-walkthrough
+```cd token-vendor-walkthrough```
 
 yarn install
 

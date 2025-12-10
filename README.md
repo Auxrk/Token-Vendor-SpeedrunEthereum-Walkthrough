@@ -11,3 +11,5 @@ Perfect for builders who don’t code from scratch and prefer working with ready
 🎯 Challenge Goal
 
 - Create your own ERC20 token
+
+- Deploy the Vendor contract

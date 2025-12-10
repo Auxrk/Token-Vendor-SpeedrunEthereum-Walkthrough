@@ -47,7 +47,7 @@ Perfect for builders who don’t code from scratch and prefer working with ready
 
 ```cd token-vendor-walkthrough```
 
-yarn install
+```yarn install```
 
 yarn chain
 

@@ -53,6 +53,6 @@ Perfect for builders who don’t code from scratch and prefer working with ready
 
 ```yarn deploy```
 
-yarn start
+```yarn start```
 
 

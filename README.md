@@ -47,4 +47,5 @@ git clone https://github.com/YOUR_USERNAME/token-vendor-walkthrough.git
 
 cd token-vendor-walkthrough
 
+yarn install
 

@@ -53,4 +53,6 @@ yarn chain
 
 yarn deploy
 
+yarn start
+
 

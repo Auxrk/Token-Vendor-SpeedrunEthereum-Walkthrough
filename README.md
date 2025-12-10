@@ -23,3 +23,7 @@ Perfect for builders who don’t code from scratch and prefer working with ready
 - Connect the frontend
 
 - Submit the challenge on SpeedrunEthereum
+
+
+
+🧰 Requirements

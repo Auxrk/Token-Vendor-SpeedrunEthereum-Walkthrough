@@ -1,1 +1,3 @@
-# Token-Vendor-SpeedrunEthereum-Walkthrough
+# Token Vendor — SpeedrunEthereum Walkthrough (Copy-Paste Friendly)
+
+

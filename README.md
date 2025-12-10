@@ -51,7 +51,7 @@ Perfect for builders who don’t code from scratch and prefer working with ready
 
 ```yarn chain```
 
-yarn deploy
+```yarn deploy```
 
 yarn start
 

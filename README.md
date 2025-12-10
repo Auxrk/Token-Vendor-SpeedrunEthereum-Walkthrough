@@ -13,3 +13,5 @@ Perfect for builders who don’t code from scratch and prefer working with ready
 - Create your own ERC20 token
 
 - Deploy the Vendor contract
+
+- Implement:

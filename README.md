@@ -51,4 +51,6 @@ yarn install
 
 yarn chain
 
+yarn deploy
+
 

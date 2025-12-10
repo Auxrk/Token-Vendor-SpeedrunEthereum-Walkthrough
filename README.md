@@ -2,4 +2,6 @@
 
 This repository is a **step-by-step walkthrough for Challenge 2: Token Vendor** from SpeedrunEthereum in the format:
 
+> ✅ copy-paste → ✅ deploy → ✅ test → ✅ submit
+
 

@@ -49,3 +49,6 @@ cd token-vendor-walkthrough
 
 yarn install
 
+yarn chain
+
+

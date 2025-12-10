@@ -49,7 +49,7 @@ Perfect for builders who don’t code from scratch and prefer working with ready
 
 ```yarn install```
 
-yarn chain
+```yarn chain```
 
 yarn deploy
 

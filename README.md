@@ -126,3 +126,5 @@ The standard SpeedrunEthereum frontend is used
 Make sure these features work:
 
 -Buy Tokens
+
+-Sell Tokens

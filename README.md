@@ -26,7 +26,7 @@ Challenge Goal
 
 
 
-🧰 Requirements
+Requirements
 
 - Node.js (v18+)
 

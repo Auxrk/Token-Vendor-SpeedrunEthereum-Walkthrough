@@ -128,3 +128,5 @@ Make sure these features work:
 -Buy Tokens
 
 -Sell Tokens
+
+-Approve

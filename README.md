@@ -26,7 +26,7 @@ Perfect for builders who don’t code from scratch and prefer working with ready
 
 
 
-Requirements
+2/ Requirements
 
 - Node.js (v18+)
 

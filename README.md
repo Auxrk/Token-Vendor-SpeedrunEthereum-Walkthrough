@@ -8,7 +8,7 @@ Perfect for builders who don’t code from scratch and prefer working with ready
 
 
 
-1. Challenge Goal
+1/ Challenge Goal
 
 - Create your own ERC20 token
 

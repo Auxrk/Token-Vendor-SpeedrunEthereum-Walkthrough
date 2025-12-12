@@ -123,3 +123,4 @@ payable(msg.sender).transfer(ethAmount);
 7/ Frontend
 
 The standard SpeedrunEthereum frontend is used
+Make sure these features work:

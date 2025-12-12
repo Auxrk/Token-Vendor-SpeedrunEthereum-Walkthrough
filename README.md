@@ -119,3 +119,5 @@ payable(msg.sender).transfer(ethAmount);
 - Approve flow
 
 - Selling tokens back for ETH
+
+7/ Frontend

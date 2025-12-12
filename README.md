@@ -117,3 +117,5 @@ payable(msg.sender).transfer(ethAmount);
 - Buying tokens with ETH
 
 - Approve flow
+
+- Selling tokens back for ETH

@@ -72,8 +72,6 @@ _mint(msg.sender, 1000 * 10 ** decimals());
 }
 }
 
-
-
 5/ Vendor.sol
 
 ```// SPDX-License-Identifier: MIT

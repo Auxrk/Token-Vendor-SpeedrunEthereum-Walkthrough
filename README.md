@@ -59,7 +59,7 @@ Perfect for builders who don’t code from scratch and prefer working with ready
 
 4/ YourToken.sol
 
-`// SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
 
@@ -70,9 +70,41 @@ contract YourToken is ERC20 {
 constructor() ERC20("YourToken", "YT") {
 _mint(msg.sender, 1000 * 10 ** decimals());
 }
-}`
+}
 
 
 
 
 5/ Vendor.sol
+
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.20;
+
+
+import "./YourToken.sol";
+
+
+contract Vendor {
+YourToken public yourToken;
+uint256 public constant tokensPerEth = 100;
+
+
+constructor(address tokenAddress) {
+yourToken = YourToken(tokenAddress);
+}
+
+
+function buyTokens() public payable {
+uint256 amount = msg.value * tokensPerEth;
+require(yourToken.balanceOf(address(this)) >= amount, "Not enough tokens in the contract");
+yourToken.transfer(msg.sender, amount);
+}
+
+
+function sellTokens(uint256 amount) public {
+require(yourToken.allowance(msg.sender, address(this)) >= amount, "Approve tokens first");
+uint256 ethAmount = amount / tokensPerEth;
+yourToken.transferFrom(msg.sender, address(this), amount);
+payable(msg.sender).transfer(ethAmount);
+}
+}

@@ -41,7 +41,7 @@ Requirements
 
 
 
-🚀 Quick Start
+Quick Start
 
 ```git clone https://github.com/YOUR_USERNAME/token-vendor-walkthrough.git```
 

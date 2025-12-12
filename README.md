@@ -77,7 +77,7 @@ _mint(msg.sender, 1000 * 10 ** decimals());
 
 5/ Vendor.sol
 
-// SPDX-License-Identifier: MIT
+```// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
 
@@ -107,4 +107,4 @@ uint256 ethAmount = amount / tokensPerEth;
 yourToken.transferFrom(msg.sender, address(this), amount);
 payable(msg.sender).transfer(ethAmount);
 }
-}
+}```

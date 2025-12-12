@@ -124,3 +124,5 @@ payable(msg.sender).transfer(ethAmount);
 
 The standard SpeedrunEthereum frontend is used
 Make sure these features work:
+
+-Buy Tokens

@@ -130,3 +130,5 @@ Make sure these features work:
 -Sell Tokens
 
 -Approve
+
+-Balance display

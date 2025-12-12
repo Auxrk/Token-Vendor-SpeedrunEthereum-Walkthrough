@@ -110,7 +110,7 @@ payable(msg.sender).transfer(ethAmount);
 
 6/ What to Test After Deployment
 
--Token balance of the owner
+- Token balance of the owner
 
 - Token balance of the Vendor
 

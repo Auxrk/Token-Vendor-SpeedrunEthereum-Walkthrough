@@ -121,3 +121,5 @@ payable(msg.sender).transfer(ethAmount);
 - Selling tokens back for ETH
 
 7/ Frontend
+
+The standard SpeedrunEthereum frontend is used

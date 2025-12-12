@@ -115,3 +115,5 @@ payable(msg.sender).transfer(ethAmount);
 - Token balance of the Vendor
 
 - Buying tokens with ETH
+
+- Approve flow
